@@ -1,0 +1,53 @@
+interaction_type,timestamp,duration,user_email,product_name
+view,2024-11-10T12:15:00Z,6.2,vangogh@orsaymail.com,Starry Night Print
+click,2024-11-10T12:16:30Z,2.1,vangogh@orsaymail.com,Starry Night Print
+view,2024-11-11T14:00:00Z,5.0,renoir@orsaymail.com,Impression Sunrise Poster
+view,2024-11-12T09:50:00Z,7.5,manet@orsaymail.com,A Sunday Afternoon Puzzle
+click,2024-11-12T16:25:00Z,1.7,courbet@orsaymail.com,Water Lilies Canvas
+view,2024-11-13T10:00:00Z,4.0,cezanne@orsaymail.com,The Card Players Mug
+view,2024-11-13T17:35:00Z,5.8,seurat@orsaymail.com,The Sleeping Gypsy Notebook
+click,2024-11-14T12:25:00Z,2.0,monet@orsaymail.com,Mont Sainte-Victoire Tote Bag
+view,2024-11-14T18:05:00Z,6.0,bonnard@orsaymail.com,Dance at Le Moulin de la Galette Frame
+view,2024-11-15T11:00:00Z,4.5,vuillard@orsaymail.com,Olympia Art Book
+click,2024-11-15T15:25:00Z,2.3,rousseau@orsaymail.com,The Banquet of the Officers T-Shirt
+view,2024-11-16T09:05:00Z,7.0,vangogh@orsaymail.com,Girl with a Pearl Earring Print
+view,2024-11-16T14:25:00Z,4.1,renoir@orsaymail.com,Starry Night Over the Rhône Calendar
+click,2024-11-17T09:50:00Z,2.5,monet@orsaymail.com,The Kiss Metal Poster
+view,2024-11-17T12:15:00Z,5.4,manet@orsaymail.com,Persistence of Memory Clock
+click,2024-11-18T09:00:00Z,3.0,bonnard@orsaymail.com,The Scream Hoodie
+view,2024-11-18T13:45:00Z,6.2,seurat@orsaymail.com,Mona Lisa Sketchbook
+purchase,2024-11-19T10:20:00Z,1.0,courbet@orsaymail.com,The Great Wave Puzzle
+view,2024-11-19T15:30:00Z,5.7,cezanne@orsaymail.com,Guernica Large Canvas
+click,2024-11-20T12:00:00Z,1.8,rousseau@orsaymail.com,Sunflowers Ceramic Vase
+view,2024-11-20T17:45:00Z,7.2,vuillard@orsaymail.com,Renaissance Art Stickers Pack
+view,2024-11-21T10:50:00Z,4.8,vangogh@orsaymail.com,Water Lilies Canvas
+click,2024-11-21T16:15:00Z,2.2,renoir@orsaymail.com,Sunflowers Ceramic Vase
+view,2024-11-22T08:35:00Z,6.0,manet@orsaymail.com,The Kiss Metal Poster
+click,2024-11-22T13:25:00Z,1.9,courbet@orsaymail.com,The Banquet of the Officers T-Shirt
+view,2024-11-23T09:20:00Z,5.6,seurat@orsaymail.com,Starry Night Print
+click,2024-11-23T14:05:00Z,3.0,monet@orsaymail.com,Guernica Large Canvas
+view,2024-11-24T12:55:00Z,4.2,bonnard@orsaymail.com,Girl with a Pearl Earring Print
+view,2024-11-24T17:15:00Z,7.8,vuillard@orsaymail.com,The Great Wave Puzzle
+click,2024-11-25T09:40:00Z,2.4,rousseau@orsaymail.com,Mona Lisa Sketchbook
+view,2024-11-25T15:10:00Z,6.9,cezanne@orsaymail.com,Renaissance Art Stickers Pack
+purchase,2024-11-26T10:30:00Z,1.0,monet@orsaymail.com,Water Lilies Canvas
+purchase,2024-11-26T15:45:00Z,1.0,renoir@orsaymail.com,Girl with a Pearl Earring Print
+view,2024-11-27T09:10:00Z,5.0,courbet@orsaymail.com,Impression Sunrise Poster
+click,2024-11-27T12:20:00Z,2.0,seurat@orsaymail.com,The Kiss Metal Poster
+view,2024-11-28T11:55:00Z,4.9,bonnard@orsaymail.com,The Scream Hoodie
+view,2024-11-28T17:25:00Z,6.4,vuillard@orsaymail.com,Mont Sainte-Victoire Tote Bag
+view,2024-11-29T15:40:00Z,5.2,vuillard@orsaymail.com,A Sunday Afternoon Puzzle
+click,2024-11-29T10:20:00Z,2.3,manet@orsaymail.com,The Sleeping Gypsy Notebook
+view,2024-11-29T15:40:00Z,5.2,cezanne@orsaymail.com,A Sunday Afternoon Puzzle
+purchase,2024-11-30T11:00:00Z,1.0,vangogh@orsaymail.com,Starry Night Over the Rhône Calendar
+view,2024-12-01T10:15:00Z,6.0,renoir@orsaymail.com,Starry Night Print
+view,2024-12-02T14:45:00Z,5.5,manet@orsaymail.com,Starry Night Print
+view,2024-12-03T09:20:00Z,7.1,seurat@orsaymail.com,Starry Night Print
+purchase,2024-12-01T11:30:00Z,1.0,seurat@orsaymail.com,Water Lilies Canvas
+purchase,2024-12-03T16:20:00Z,1.0,vuillard@orsaymail.com,Water Lilies Canvas
+purchase,2024-12-04T18:05:00Z,1.0,bonnard@orsaymail.com,Water Lilies Canvas
+view,2024-12-02T12:00:00Z,6.2,monet@orsaymail.com,Girl with a Pearl Earring Print
+view,2024-12-03T15:40:00Z,5.8,rousseau@orsaymail.com,Girl with a Pearl Earring Print
+purchase,2024-12-04T09:50:00Z,1.0,vangogh@orsaymail.com,Girl with a Pearl Earring Print
+view,2024-12-01T13:25:00Z,4.7,courbet@orsaymail.com,Olympia Art Book
+view,2024-12-02T17:10:00Z,6.3,vuillard@orsaymail.com,Olympia Art Book
